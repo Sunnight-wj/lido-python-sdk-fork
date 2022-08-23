@@ -13,7 +13,7 @@ if sys.version_info < (3, 7):
 
 
 # Package meta-data.
-NAME = "lido-sdk"
+NAME = "lido-sdk-fork"
 DESCRIPTION = (
     "This library consolidates various functions to efficiently load network data for Lido,"
     " validate node operator keys and find key duplicates."
