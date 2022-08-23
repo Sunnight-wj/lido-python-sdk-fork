@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="https://docs.lido.fi/img/logo.svg" alt="Lido" width="46"/> Lido Python SDK 
 
 [![codecov](https://codecov.io/gh/lidofinance/lido-python-sdk/branch/master/graph/badge.svg)](https://codecov.io/gh/lidofinance/lido-python-sdk)
@@ -225,3 +226,7 @@ git tag v2.x.x  master
 git push --tags
 ```
 New version should be published after all pipelines passed.
+=======
+# lido-python-sdk-fork
+fork lido-python-sdk
+>>>>>>> 88a206396b11da0010ce47e201569b90c5d0945f
