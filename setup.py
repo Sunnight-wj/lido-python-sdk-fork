@@ -18,7 +18,7 @@ DESCRIPTION = (
     "This library consolidates various functions to efficiently load network data for Lido,"
     " validate node operator keys and find key duplicates."
 )
-URL = "https://github.com/lidofinance/lido-python-sdk"
+URL = "https://github.com/Sunnight-wj/lido-python-sdk-fork"
 EMAIL = "info@lido.fi"
 AUTHOR = "Lido"
 REQUIRES_PYTHON = ">=3.7,<4"
